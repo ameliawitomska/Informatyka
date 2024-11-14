@@ -15,10 +15,10 @@ int main() {
     cout << "double: " << l << endl;
 
     if(k==l){
-    cout << "Liczba calkowita";
+    cout << "Liczba calkowita" << endl;
     }
     else{
-    cout << "Liczba niecalkowita";
+    cout << "Liczba niecalkowita" << endl;
     }
 
 
