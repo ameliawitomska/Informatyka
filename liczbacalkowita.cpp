@@ -10,7 +10,7 @@ int main() {
     cin >> l; 
 
     
-     k = static_cast<int>(l);
+    k = l;
     cout << "int: " << k << endl;
     cout << "double: " << l << endl;
 
